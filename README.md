@@ -1,2 +1,2 @@
 # chengshe_practice
-a review of what i have practiced during chengshe
+A review of what I have practiced during Programming and Algorithm Class (PKU ChengShe class)
